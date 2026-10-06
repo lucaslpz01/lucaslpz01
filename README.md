@@ -36,7 +36,7 @@ Tenho 18 anos e sou natural de Brasília-DF. Concluí o ensino médio no SESI-DF
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Java/Java-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
 />
 <img 
     align="left" 
@@ -52,7 +52,7 @@ Tenho 18 anos e sou natural de Brasília-DF. Concluí o ensino médio no SESI-DF
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/SQL/SQL-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
 />
 
 <br/>
