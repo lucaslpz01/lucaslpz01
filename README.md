@@ -4,7 +4,7 @@
 
 Tenho 18 anos e sou natural de Brasília-DF. Concluí o ensino médio no SESI-DF, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP.
 
-### 🤖 Linguagens
+### 🤖 Linguagens e tecnologias
 
 <img 
     align="left" 
@@ -63,5 +63,30 @@ Tenho 18 anos e sou natural de Brasília-DF. Concluí o ensino médio no SESI-DF
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
+<img 
+    align="left" 
+    alt="FastAPI" 
+    title="FastAPI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="VScode" 
+    title="VScode"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Canva" 
+    title="Canva"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" 
+/>
+
 <br/>
 <br/>
