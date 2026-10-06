@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Lucas Lourenço Lopes
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Tenho 18 anos e sou natural de Brasília-DF. Concluí o ensino médio no SESI-DF, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP.
 
